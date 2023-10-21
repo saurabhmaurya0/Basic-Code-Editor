@@ -1,7 +1,10 @@
 <img align="right" alt="Coding" width="400"  src="https://thumbs.gfycat.com/BetterFalseKid-max-1mb.gif">
 <h1 align="center">Hi 👋, I'm SAURABH MAURYA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-https://github.com/saurabhmaurya0/Basic-Code-Editor/assets/97622677/22cb9494-e42f-4ed7-96fe-710ec62a5457
+<h3 align="center">Screen Shots </h3>
+![image](https://github.com/saurabhmaurya0/Basic-Code-Editor/assets/97622677/6da31019-1284-4b6b-a5c7-1f9a54b2fad4)
+![image](https://github.com/saurabhmaurya0/Basic-Code-Editor/assets/97622677/11accfd5-bcc3-4c98-ba59-b896bf8c11b9)
+![image](https://github.com/saurabhmaurya0/Basic-Code-Editor/assets/97622677/4c5111be-bfca-47fb-b666-fe0a8388b537)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chillbro20&label=Profile%20views&color=0e75b6&style=flat" alt="chillbro20" /> </p>
