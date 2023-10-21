@@ -1,0 +1,11 @@
+.editor {
+    border: 1px solid #ccc;
+    height: 300px;
+    width: 400px;
+    padding: 10px;
+    /* display: none; */
+}
+
+.buttons {
+    margin-top: 10px;
+}
