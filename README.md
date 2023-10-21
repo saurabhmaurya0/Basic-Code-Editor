@@ -1,6 +1,8 @@
 <img align="right" alt="Coding" width="400"  src="https://thumbs.gfycat.com/BetterFalseKid-max-1mb.gif">
 <h1 align="center">Hi 👋, I'm SAURABH MAURYA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+https://github.com/saurabhmaurya0/Basic-Code-Editor/assets/97622677/22cb9494-e42f-4ed7-96fe-710ec62a5457
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chillbro20&label=Profile%20views&color=0e75b6&style=flat" alt="chillbro20" /> </p>
 
